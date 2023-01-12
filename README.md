@@ -33,4 +33,5 @@ Deliverable 2 allowed us to determine how many of the people retiring would be e
 
 To address the mass exodus of 72,458 employees, over 70,000+ new employees will need to be hired, with the bulk replacing senior staffing positions. This is not reasonable as new hires will lack the experience needed for senior positions. A solution is to have the senior staff and engineers take on the mentor role and slowly bring up regular engineers and staff to a senior level while having new hires replace those brought up. By allowing more mentors from more years, not only 1965, the mentor pool will grow. A query would be to modify the mentorship one and include more years than 1965.
 
+![change_mentor_query](https://user-images.githubusercontent.com/118235205/212046899-4ff2f2cc-ee1d-49d6-8d50-4fd060cbe7b2.png)
 
